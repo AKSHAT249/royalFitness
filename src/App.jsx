@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Navbar, Footer } from "./components";
-import Home from "./pages/Home";
+import Home from "./Pages/Home";
 import WhyJoin from "./components/WhyJoin";
 import Training from "./Pages/Training";
 import Gallery from "./Pages/Gallery";
