@@ -6,7 +6,7 @@ import Plans from './Plans';
 
 const Home = () => {
   return (
-    <div className="bg-black h-full">
+    <div className="bg-black w-full h-full">
         <Hero />
         <Services />
         <DemoClass />

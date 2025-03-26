@@ -17,7 +17,7 @@ const DemoClass = () => {
                     <p className='text-md text-white'>We provide Supportive management, for your fitness success.</p>
                     <button className="text-md text-white bg-[#08C2FF] font-bold px-6 py-2 rounded-lg hover:bg-[#006BFF] hover:ring-4">Book Your Free Class</button>
                 </div>
-
+                
 
             </div>
         </div>

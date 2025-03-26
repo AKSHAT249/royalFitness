@@ -6,7 +6,7 @@ const Plans = () => {
         <div className='w-full p-8 bg-black-500'>
             <h1 className='text-white text-[50px] font-bold mb-6 text-center'>Our <span className='text-[#08C2FF]'>Plans</span></h1>
             <div className='grid grid-cols-1 md:grid-cols-3 gap-8'>
-                <div className='border-2 border-[#08C2FF] rounded-2xl bg-black p-12 hover:ring-4 duration-300 hover:translate-z-50' >
+                <div className='duration-300 hover:ease-in-out  border-2 border-[#08C2FF] rounded-2xl bg-black p-12 hover:ring-4 duration-300 hover:translate-z-50' >
                     <div className='flex flex-col gap-4'>
                         <h2 className='text-white text-4xl font-bold'>BASIC</h2>
                         <h2 className='text-[#08C2FF] text-4xl font-bold'>$100/Month</h2>
